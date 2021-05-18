@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NL5k156jJrqEGZS5A2wSkeis1ZktC99oPu6Hd9XgW87gm/RRUGlaQpr4Kyi7sl2Da3D/lz9z3fSKvrkfWq8+Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\WebExam\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
